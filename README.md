@@ -41,17 +41,7 @@ Cuento con experiencia en:
 - **Bootcamp en Análisis de Datos** – Talento Tech Oriente (2025)  
 - **Automatiza tareas de ciberseguridad con Python** – Coursera (2024)  
 - **Introducción a Ciberseguridad** – Cisco Networking Academy (2024)  
-- **Mega Curso de Python: 10 Aplicaciones Reales** – Udemy (2025)  
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JuanMora11&theme=dark)](https://git.io/streak-stats)
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JuanMora11&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMora11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+- **Mega Curso de Python: 10 Aplicaciones Reales** – Udemy (2025)
 
 ## 🌟 Habilidades Blandas
 
@@ -66,6 +56,17 @@ Cuento con experiencia en:
 
 - 📧 Email: juan.0909.123@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/juan-diego-mora-cabrales-992359290/
-- 🌐 GitHub: [TuUsuarioGitHub](https://github.com/TuUsuarioGitHub)
+- 🌐 GitHub: https://github.com/JuanMora11
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JuanMora11&theme=dark)](https://git.io/streak-stats)
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JuanMora11&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMora11&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
