@@ -1,13 +1,13 @@
 ## Mi perfil👋
 
 # ¡Hola 👋! Soy Juan Diego Mora Cabrales  
-**Estudiante de Ingeniería de Sistemas | Desarrollador | QA | IoT**
+**Ingeniero de Sistemas | Desarrollador | QA | full stack**
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy estudiante de **Ingeniería de Sistemas** con materias finalizadas y en proceso de titulación. Me apasiona el desarrollo de software, el aseguramiento de la calidad (QA) y la integración de tecnologías como IoT y cloud.  
+Soy **Ingeniero de Sistemas** recién titulado. Me apasiona el desarrollo de software, el aseguramiento de la calidad (QA) y la integración de tecnologías como y cloud.  
 Cuento con experiencia en:
 
 - Desarrollo con **Python, Java, C#, JavaScript, Angular, Kotlin**
